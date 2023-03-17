@@ -41,10 +41,7 @@ Then run server with the above command
 Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
+ font-family: Arial, sans-serif;
 *****
 ## Technologies Used
 1. HTML
