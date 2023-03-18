@@ -38,7 +38,7 @@ To install all requirements that is vscode
 Then run server with the above command
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+Or you can access the web application directly via this [LINK.](https://symphonious-palmier-600199.netlify.app)
 *****
 ## Dependencies
  font-family: Arial, sans-serif;
