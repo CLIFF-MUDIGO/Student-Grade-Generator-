@@ -5,15 +5,14 @@ Student Grade Generator
 The Student Grade Generator is a toy problem that demonstrates how programming concepts can be used to solve real-world problems. This program prompts the user to input student marks between 0 and 100, and then uses a set of criteria to assign a corresponding grade. The grades are then displayed to the user in a visually appealing format. This toy problem is a great way to practice working with HTML, CSS, and JavaScript, and it can be expanded upon to create more complex grading systems or other types of applications.
 
 ## SCREENSHOTS
-- link 1
-- link 2
+https://github.com/CLIFF-MUDIGO/Student-Grade-Generator-/issues/1#issue-1630554691
 
 
 ********
 ## SetUp Instruction
 have a vscode and in it have html,css and js files for easy coding!
 ### Requirements
-* [Lang](lang Url)
+* [Lang](html.com ,javascript.com,css)
 * [Framework](Framework URL)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
